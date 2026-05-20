@@ -1,7 +1,6 @@
 # 🤖 Agente AI con N8N — Client Management Bot
 
-> Automazione intelligente no-code per la gestione clienti via Telegram.
-
+> Intelligent no-code automation for customer management via Telegram.
 ---
 
 ## 📋 Project Overview
